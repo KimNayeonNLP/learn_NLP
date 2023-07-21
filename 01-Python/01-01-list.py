@@ -36,4 +36,5 @@ print(sent)
 
 
 
-
+a = ['cola', 'cider', 'orange']
+print(a)
