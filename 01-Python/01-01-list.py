@@ -23,7 +23,7 @@ print(char)
 
 
 
-#단어를 담은 list
+#단어를 담은 list 
 word = ['life', 'time', 'gold']
 print(word)
 
